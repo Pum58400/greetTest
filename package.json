@@ -1,0 +1,11 @@
+{
+  "name": "t",
+  "version": "1.0.0",
+  "description": "",
+  "main": "greet.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
